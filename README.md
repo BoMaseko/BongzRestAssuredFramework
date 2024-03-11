@@ -1,4 +1,4 @@
-# DerivcoTechnicalAssessment
+# Derivco Technical Assessment
 # Cocktail Exercise
 
 This is Derivco technical assessment to automate the test cases using a language/framework of choice for  cocktail API. Follow these steps to clone and execute the project.
@@ -15,13 +15,13 @@ Make sure you have the following installed on your machine:
 Open a terminal or command prompt and run the following command to clone the repository:
 
 
-`git clone https://github.com/BoMaseko/DerivcoTechnicalAssessment.git`<br>
+`git clone https://github.com/BoMaseko/derivco-technical-assessment.git`<br>
 
 # Navigate to the Project Directory
 
 Change into the project directory:
 
-`cd DerivcoTechnicalAssessment`
+`cd derivco-technical-assessment`
 # Build the Project
 Use Maven to build the project. Run the following command:
 
